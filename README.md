@@ -4,12 +4,12 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <img src="" alt="Banner"/>
+  <img src="https://github.com/AK-147/Drug-Discovery/blob/main/Drug%20Discovery%20Banner.png?raw=true" alt="Banner"/>
   
   <h2>:book: Description</h2>
   <ul>
     <li>:reminder_ribbon: An app built via Streamlit to determine the effectiveness of drugs against an enzyme linked to breast cancer.</li>
-    <li>:test_tube: Utilizes a machine learning regression model trained on 2500+ compounds via pandas, NumPy, and scikit-learn.</li>
+    <li>:test_tube: Uses a machine learning regression model trained on 2500+ compounds via pandas, NumPy, and scikit-learn.</li>
     <li>:books: Created as a personal project after a newly discovered passion for healthcare and the field of bioinformatics.</li>
   </ul>
 
