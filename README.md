@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <img src="https://github.com/AK-147/Drug-Discovery/blob/main/Drug%20Discovery%20Banner.png?raw=true" alt="Banner"/>
+  <img src="https://github.com/AK-147/Drug-Discovery/blob/main/DD%20Banner.png?raw=true" alt="Banner"/>
   
   <h2>:book: Description</h2>
   <ul>
