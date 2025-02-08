@@ -23,7 +23,7 @@
   
   <h2>:warning: Disclaimers</h2>
   <p>
-    The application portion has been delayed due to technical difficulties with dependent software. These will be resolved soon, however, as of now, the implementation is still in progress.
+    The application portion of the project is still in progress and will be completed soon.
   </p>
   <h2></h2>
   <h3>:microscope::petri_dish: Enjoy :dna::pill:</h3>
