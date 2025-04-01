@@ -10,7 +10,7 @@
   <ul>
     <li>:reminder_ribbon: An app built via Streamlit to determine the effectiveness of drugs against an enzyme linked to breast cancer.</li>
     <li>:test_tube: Uses a machine learning regression model trained on 2500+ compounds via pandas, NumPy, and scikit-learn.</li>
-    <li>:books: Created as a personal project after a newly discovered passion for healthcare and the field of bioinformatics.</li>
+    <li>:books: Created as a personal project to delve into and explore the applications in drug discovery and bioinformatics.</li>
   </ul>
 
   <h2>:file_folder: Contents</h2>
